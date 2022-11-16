@@ -94,3 +94,6 @@ button{
   color:grey;
   text-decoration: none;
 }
+p{
+  align-items: center;
+}
